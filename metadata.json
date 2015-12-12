@@ -1,0 +1,5 @@
+{
+  "name": "bogdananton/Selenium-Setup-VM-UbuntuVivid64",
+  "description": "Runs Selenium Server (guest port: 4444)",
+  "provider": "virtualbox"
+}
